@@ -1,8 +1,2 @@
-# Skill 
-i learn something usueful.
-
-## communicate
-I hope in the future I could use it.
-
-### using
-#### markdown
+this is a test image!!!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
